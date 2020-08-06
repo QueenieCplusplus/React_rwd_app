@@ -7,6 +7,10 @@ for iphone SE
 ![mobile](https://raw.githubusercontent.com/QueenieCplusplus/React_rwd_app/master/ua_app/RWD_iphone_demo.png)
 
 
+for ipad
+
+![pad](https://raw.githubusercontent.com/QueenieCplusplus/React_rwd_app/master/ua_app/RWD_ipad_demo.png)
+
 # UserAgent
 
     import React from 'react';
