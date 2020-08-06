@@ -11,6 +11,11 @@ for ipad
 
 ![pad](https://raw.githubusercontent.com/QueenieCplusplus/React_rwd_app/master/ua_app/RWD_ipad_demo.png)
 
+
+for web
+
+![browser](https://raw.githubusercontent.com/QueenieCplusplus/React_rwd_app/master/ua_app/RWD_web_demo.png)
+
 # UserAgent
 
     import React from 'react';
